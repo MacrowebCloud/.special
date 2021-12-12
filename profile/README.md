@@ -39,5 +39,5 @@ We are as competitive as we can to offer our customers something completely diff
 
 ---
 <!-- a href = git path with Master branch, change it if you use another Branch-name -->
-<a href="https://github.com/g1f1/.special/blob/Master/langs/EN/readme.md"><img src="assets/icons/lang/en.svg" width="2%" height="2%"> English</a> </img> - 
-<a href="https://github.com/g1f1/.special/blob/Master/langs/GR/readme.md"><img src="assets/icons/lang/gr.svg" width="2%" height="2%"> Greek</a> </img> - 
+<a href="https://github.com/g1f1/.special/blob/Master/langs/EN/readme.md"><img src="../assets/icons/lang/en.svg" width="2%" height="2%"> English</a> </img> - 
+<a href="https://github.com/g1f1/.special/blob/Master/langs/GR/readme.md"><img src="../assets/icons/lang/gr.svg" width="2%" height="2%"> Greek</a> </img> - 
