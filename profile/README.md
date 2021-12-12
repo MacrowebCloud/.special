@@ -1,9 +1,9 @@
 <a align="center" href="index.html">
-	<img src="assets/ego.png" class="center" width="95%" height="95%"/>
+	<img src="../assets/ego.png" class="center" width="95%" height="95%"/>
 </a>
 <p align="left">
 <h2>
-	<b> Welcome to our Organization </b> <img align="left" src="assets/hello-world.gif" width="29px">
+	<b> Welcome to our Organization </b> <img align="left" src="../assets/hello-world.gif" width="29px">
 </h2>
 	<a href="index.html">
 		<img align="right" src="https://komarev.com/ghpvc/?username=g1f1readme&color=brightgreen&style=plastic" alt="Repository Readme Views"/>
@@ -15,7 +15,7 @@
 
 
 <p>
-  <img width="250" align='left' src="assets/contributions.gif?raw=true">
+  <img width="250" align='left' src="../assets/contributions.gif?raw=true">
 </p>
 <p>
 </br>
@@ -39,5 +39,5 @@ We are as competitive as we can to offer our customers something completely diff
 
 ---
 <!-- a href = git path with Master branch, change it if you use another Branch-name -->
-<a href="https://github.com/g1f1/prepareReadme/blob/main/langs/EN/readme.md"><img src="assets/icons/lang/en.svg" width="2%" height="2%"> English</a> </img> - 
-<a href="https://github.com/g1f1/prepareReadme/blob/main/langs/GR/readme.md"><img src="assets/icons/lang/gr.svg" width="2%" height="2%"> Greek</a> </img> - 
+<a href="https://github.com/g1f1/.special/blob/Master/langs/EN/readme.md"><img src="assets/icons/lang/en.svg" width="2%" height="2%"> English</a> </img> - 
+<a href="https://github.com/g1f1/.special/blob/Master/langs/GR/readme.md"><img src="assets/icons/lang/gr.svg" width="2%" height="2%"> Greek</a> </img> - 
